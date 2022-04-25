@@ -10,6 +10,9 @@ HDSD: Dùng Rufus https://drive.google.com/file/d/1dwJLDzgViJQR8vLsJ1rinMDbv7FMW
 
 - Windows 11 ARM: https://drive.google.com/file/d/1AoEKtKZsmTmhliFs6cOOVQK_pSrxEi9J/view?usp=sharing
 
+![image](https://user-images.githubusercontent.com/58414694/165145619-ff5926cb-ef20-4794-b6a1-669c37f78827.png)
+
+
 
 * Link Driver gốc: https://drive.google.com/file/d/1PUH9UA_W2q5_5ZJ6U1NrE3FnAtGwZje8/view?usp=sharing
 * Link APP gốc: https://drive.google.com/file/d/18YJy7U4mLNVrUSaqtSziS4CF2KdjQ_5R/view?usp=sharing
