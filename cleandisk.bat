@@ -1,3 +1,4 @@
+REM Dùng DISM ++ để flash lại WIN
 diskpart
 select disk 0
 clean
