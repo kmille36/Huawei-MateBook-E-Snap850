@@ -8,7 +8,7 @@ HDSD: Dùng Rufus https://drive.google.com/file/d/1dwJLDzgViJQR8vLsJ1rinMDbv7FMW
 
 ![image](https://user-images.githubusercontent.com/58414694/165145619-ff5926cb-ef20-4794-b6a1-669c37f78827.png)
 
-- Windows 11 ARM: https://drive.google.com/file/d/1AoEKtKZsmTmhliFs6cOOVQK_pSrxEi9J/view?usp=sharing
+- Windows 11 ARM: https://drive.google.com/file/d/1OhdPREaSpVdhHwcgbt0--pK70bvEhZxC/view?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/58414694/165143033-845956b8-91ea-4405-82a6-19b4b5a8e583.png)
 
